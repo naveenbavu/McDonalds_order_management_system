@@ -1,0 +1,41 @@
+{
+	"billId": 4,
+	"orderList": [
+		{
+			"name": "Big Mac - Meal",
+			"price": 5.99,
+			"size": ""
+		},
+		{
+			"name": "Filet-O-Fish",
+			"price": 3.79,
+			"size": null
+		},
+		{
+			"name": "Big Breakfast",
+			"price": 3.69,
+			"size": null
+		},
+		{
+			"name": "Filet-O-Fish - Meal",
+			"price": 5.79,
+			"size": null
+		},
+		{
+			"name": "Chicken McNuggets",
+			"price": 3.29,
+			"size": "4 Pc."
+		},
+		{
+			"name": "Big Mac",
+			"price": 3.99,
+			"size": null
+		},
+		{
+			"name": "Cone",
+			"price": 1.0,
+			"size": null
+		}
+	],
+	"totalCost": 27.54
+}

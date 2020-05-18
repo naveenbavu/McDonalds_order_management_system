@@ -1,0 +1,46 @@
+{
+	"billId": 1,
+	"orderList": [
+		{
+			"name": "Big Breakfast",
+			"price": 3.69,
+			"size": null
+		},
+		{
+			"name": "2 Cheeseburgers",
+			"price": 2.0,
+			"size": null
+		},
+		{
+			"name": "Quarter Pounder with Cheese - Meal",
+			"price": 5.79,
+			"size": null
+		},
+		{
+			"name": "Artisan Grilled Chicked",
+			"price": 4.39,
+			"size": null
+		},
+		{
+			"name": "Grilled Onion Sheddar Burger",
+			"price": 1.0,
+			"size": null
+		},
+		{
+			"name": "Orange Juice",
+			"price": 2.09,
+			"size": "Large"
+		},
+		{
+			"name": "Cheeseburger",
+			"price": 2.69,
+			"size": null
+		},
+		{
+			"name": "BBQ Ranch Burger",
+			"price": 1.0,
+			"size": null
+		}
+	],
+	"totalCost": 22.650000000000002
+}
